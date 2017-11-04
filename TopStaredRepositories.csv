@@ -425,7 +425,7 @@ Netflix,Hystrix,"Hystrix is a latency and fault tolerance library designed to is
 SnapKit,SnapKit,A Swift Autolayout DSL for iOS & OS X,2017-06-12T10:15:39Z,Swift,10k,"dsl,swift,xcode,cocoapods,snapkit,ui,layout,constraints,autolayout,auto",https://github.com/SnapKit/SnapKit
 drone,drone,"Drone is a Continuous Delivery platform built on Docker, written in Go",2017-06-24T12:16:16Z,Go,10k,"docker,go,continuous-integration,continuous-delivery,build-pipelines,build-automation",https://github.com/drone/drone
 jquery,jquery-ui,The official jQuery user interface library.,2017-06-21T08:50:28Z,JavaScript,10k,"jquery,javascript",https://github.com/jquery/jquery-ui
-nolimits4web,Framework7,Full featured HTML framework for building iOS & Android apps,2017-06-23T16:05:13Z,HTML,10k,"android,components,ios,cordova,library,mobile,framework,material,material-design,touch,phonegap",https://github.com/nolimits4web/Framework7
+framework7io,Framework7,Full featured HTML framework for building iOS & Android apps,2017-06-23T16:05:13Z,HTML,10k,"android,components,ios,cordova,library,mobile,framework,material,material-design,touch,phonegap",https://github.com/nolimits4web/Framework7
 sass,sass,Sass makes CSS fun again.,2017-06-23T17:13:02Z,Ruby,10k,,https://github.com/sass/sass
 gatsbyjs,gatsby, Blazing fast React.js static site generator,2017-06-24T18:24:48Z,JavaScript,10k,"react,gatsby,blog,static-site-generator,documentation-tool",https://github.com/gatsbyjs/gatsby
 adobe-webplatform,Snap.svg,The JavaScript library for modern SVG graphics.,2017-04-18T11:54:43Z,JavaScript,10k,"snap,javascript,javascript-library,svg,svg-animations",https://github.com/adobe-webplatform/Snap.svg

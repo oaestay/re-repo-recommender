@@ -33,6 +33,11 @@ class Repository:
 
             conn.commit()
         except (Exception, psycopg2.DatabaseError) as error:
+            print("Error on repository:")
+            print("id: ", self.id)
+            print("name: ", self.name)
+            print("owner: ", self.owner)
+            print("owner_name: ", self.owner_name)
             raise error
         finally:
             if conn is not None:
